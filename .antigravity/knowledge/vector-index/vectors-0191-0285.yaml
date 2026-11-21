@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Panama
+  iso: PA
+  block: 3
+  range: [191,285]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "PA-V-0191"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0192"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0193"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0194"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0195"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0196"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0197"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0198"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0199"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0200"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0201"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0202"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0203"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0204"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0205"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0206"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0207"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0208"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0209"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0210"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0211"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0212"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0213"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0214"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0215"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0216"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0217"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0218"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0219"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0220"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0221"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0222"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0223"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0224"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0225"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0226"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0227"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0228"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0229"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0230"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0231"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0232"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0233"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0234"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0235"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0236"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0237"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0238"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0239"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0240"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0241"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0242"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0243"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0244"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0245"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0246"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0247"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0248"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0249"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0250"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0251"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0252"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0253"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0254"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0255"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0256"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0257"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0258"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0259"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0260"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0261"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0262"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0263"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0264"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0265"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0266"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0267"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0268"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0269"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0270"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0271"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0272"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0273"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0274"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0275"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0276"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0277"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0278"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0279"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0280"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0281"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0282"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0283"
+      anchor: "Panama Canal construction/control and sovereignty history"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0284"
+      anchor: "1989 US invasion (Operation Just Cause, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PA-V-0285"
+      anchor: "Financial hub and sanctions/external pressure issues"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true

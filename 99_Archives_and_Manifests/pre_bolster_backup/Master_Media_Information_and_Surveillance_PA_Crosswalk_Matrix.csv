@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+PA-MED-01,Media Information and Surveillance,Panama Canal construction/control and sovereignty history,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PA-MED-02,Media Information and Surveillance,"1989 US invasion (Operation Just Cause, public record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PA-MED-03,Media Information and Surveillance,Financial hub and sanctions/external pressure issues,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PA-MED-04,Media Information and Surveillance,Panama Canal construction/control and sovereignty history,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PA-MED-05,Media Information and Surveillance,"1989 US invasion (Operation Just Cause, public record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+PA-INF-01,Infrastructure and Public Utilities,Panama Canal construction/control and sovereignty history,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PA-INF-02,Infrastructure and Public Utilities,"1989 US invasion (Operation Just Cause, public record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PA-INF-03,Infrastructure and Public Utilities,Financial hub and sanctions/external pressure issues,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PA-INF-04,Infrastructure and Public Utilities,Panama Canal construction/control and sovereignty history,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PA-INF-05,Infrastructure and Public Utilities,"1989 US invasion (Operation Just Cause, public record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+PA-ENV-01,Environmental and Climate Harms,Panama Canal construction/control and sovereignty history,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PA-ENV-02,Environmental and Climate Harms,"1989 US invasion (Operation Just Cause, public record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PA-ENV-03,Environmental and Climate Harms,Financial hub and sanctions/external pressure issues,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PA-ENV-04,Environmental and Climate Harms,Panama Canal construction/control and sovereignty history,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PA-ENV-05,Environmental and Climate Harms,"1989 US invasion (Operation Just Cause, public record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
