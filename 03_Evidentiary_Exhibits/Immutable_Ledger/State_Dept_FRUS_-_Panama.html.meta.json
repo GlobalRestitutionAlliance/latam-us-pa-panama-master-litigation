@@ -1,0 +1,17 @@
+{
+  "url": "https://history.state.gov/countries/panama",
+  "final_url": "https://history.state.gov/countries/panama",
+  "title": "State Dept FRUS - Panama",
+  "fetched_at": "2026-11-23T14:28:28.392016Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes": 34995,
+  "sha256": "225c504c8c96ece92a0ba4d282e8ed340407749c6b56d9d7851eeaef6251835a",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
